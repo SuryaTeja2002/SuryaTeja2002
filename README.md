@@ -20,3 +20,8 @@
 <a href="https://www.leetcode.com/https://leetcode.com/suryateja20/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/suryateja20/" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/suryateouxt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/suryateouxt" height="30" width="40" /></a>
 </p>
+
+
+![](https://github-readme-stats.vercel.app/api?username=suryateja2002&theme=shades-of-purple&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=suryateja2002&theme=shades-of-purple&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=suryateja2002&theme=shades-of-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
