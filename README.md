@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Surya Teja Moparthi</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Ideas deserve execution</h3>
 
-- 🔭 I’m currently working on **LocalBuzz**
+<!-- 🔭 I’m currently working on **LocalBuzz**-->
 
 - 🌱 I’m currently learning **Machine Learning.**
 
